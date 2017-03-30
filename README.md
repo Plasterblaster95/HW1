@@ -1,4 +1,4 @@
-Homework 1
+Homework 0
 ================
 
 You are currently in the GitHub repository (repo) for `HW-0`. You must complete all of the steps in [set up guide](https://github.com/cmsc205/notes/tree/master/install) prior to attempting this assignment.
