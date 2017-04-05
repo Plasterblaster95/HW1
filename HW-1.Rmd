@@ -1,0 +1,28 @@
+---
+title: "HW1"
+author: "JACK PLASTERER"
+date: "April 4, 2017"
+output:
+  html_document: default
+  pdf_document: default
+---
+Link:![](https://www.quora.com/Should-the-USA-implement-single-payer-universal-health-care)
+
+1a.The data visualized are the various countries throughout the world, most of which have a single-payer healthcare system, and the United States, which has a for-profit healthcare program.
+1b.This data came from PBS 
+2.The data dimensions of each country are represented as blue bars of varying lengths, that is depending on how much each country spends on healthcare as a share of GDP. Light blue indicates how much each country spends privatley while dark blue indicates how much is spent publicly. 
+3.This shapes my understanding of the data as it conveys to me which countries are investing in public health care.Moreover, it shows the countries that acutally value health care as a right, and why we (the US) should move in that direction.
+4.Something this visualization does well is depict the curve of how much each country pays per capita on healthcare (No surprise the US has the tallest bar). 
+5. I would change the visualization by adding more colors to the field for each country in question to better show which countries are spending more publicly on healthcare. 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+## Including Plots
+```
+```{r}
+```
